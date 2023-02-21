@@ -162,7 +162,7 @@ span{
 }
 .text{
     padding: 5px;
-    font-size: 10px;
+    font-size: 15px;
     color: #545454;
     line-height: 30px;
     text-align: justify;
@@ -203,8 +203,8 @@ span{
 }
 .services__card {
     margin: 15px;
-    height: 400px;
-    width: 300px;
+    height: 300px;
+    width: 250px;
     border-radius: 6px;
     display: flex;
     flex-direction: column;
@@ -239,7 +239,7 @@ span{
     font-size: 1rem;
     align-items: center;
     margin-top: 7%;
-    margin-left: 33%;
+    margin-left: 25%;
 }
 @keyframes style1{
     from{
